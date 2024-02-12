@@ -51,5 +51,5 @@ team environment.
     
 
 ## Skills
-- Programming Languages: HTML, CSS, JavaScript, React JS, Java, Python, etc.
+- Programming Languages: HTML, CSS, JavaScript, React JS, Node JS, Express JS, Java, Python, etc.
 - Tools & Technologies: Rest API, Git,VS Code, GitHub etc.
